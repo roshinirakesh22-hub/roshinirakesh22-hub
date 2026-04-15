@@ -1,105 +1,134 @@
-<!-- 🌌 Neon Glass Header -->
+<!-- 🌌 HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Roshini&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Roshini&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">✨ Hi, I'm Roshini ✨</h1>
-<h3 align="center">🤖 AI & Machine Learning Student | 💻 Developer | 🎨 Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Explorer;Future+Robotics+Engineer;Creative+Technologist;Building+the+Future+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=AI+Student;Creative+Developer;Future+ML+Engineer;Building+cool+things..." />
 </p>
 
 ---
 
-## 🧊 About Me
+<!-- 🧊 ABOUT CARD -->
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="700px">
 
-💎 Turning ideas into intelligent systems  
-🤖 AI & Machine Learning student exploring real-world innovation  
-🎨 Blending creativity with technology  
-🚀 Building futuristic projects step by step  
+```diff id="g4m5rp"
++ I build things that mix logic with creativity.
++ AI & Machine Learning student exploring real-world ideas.
++ I like minimal, dark, aesthetic designs.
 
-</div>
+- Not just coding for marks.
+- I want to create something meaningful.
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Tech Universe
+<!-- ⚡ TECH STACK -->
+
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,spring,mysql,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 🌈 GitHub Pulse
+<!-- 🌌 CURRENT + PROJECTS GRID -->
+
+<table align="center">
+<tr>
+<td width="350px" align="center">
+
+### 🌌 Currently
+
+🧠 Learning AI & ML
+💻 Building meaningful projects
+🎨 Minimal aesthetic design
+
+</td>
+
+<td width="350px" align="center">
+
+### 🔥 Projects
+
+✨ AI Experiments
+✨ Python Tools
+✨ Portfolio (soon)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- 🧠 PERSONAL -->
+
+<h2 align="center">🧠 A bit more me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+<i>
+"Code is never finished.<br>
+It just becomes less embarrassing over time."
+</i>
+</p>
+
+<p align="center">
+<i>
+One day I'll come back to this code<br>
+and wonder how I even made it work.
+</i>
 </p>
 
 ---
 
-## 🔥 Activity Flow
+<!-- 📊 STATS -->
+
+<h2 align="center">📊 GitHub Flow</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=8A2BE2"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2"/>
 </p>
 
 ---
 
-## 🚀 Projects Galaxy
+<!-- 🌙 CONTACT -->
 
-<div align="center">
-
-🌌 Employee Management System  
-🧠 AI Learning Assistant  
-🎨 Portfolio Website (Coming Soon)  
-
-</div>
-
----
-
-## 🎯 Mission
-
-<div align="center">
-
-🌍 Build impactful AI systems  
-🤖 Create intelligent robotics solutions  
-💼 Achieve global internship opportunities  
-🚀 Become a next-gen AI Engineer  
-
-</div>
-
----
-
-## 💫 What Makes Me Different
-
-<div align="center">
-
-I combine **art + intelligence** to create systems that are not just functional, but beautiful.
-
-</div>
-
----
-
-## 📫 Contact
+<h2 align="center">🌙 Connect</h2>
 
 <p align="center">
-  📧 Email: roshinirakesh22@gmail.com
+  📧 roshinirakesh22@gmail.com
 </p>
 
 ---
 
+<!-- 💫 FOOTER -->
+
 <p align="center">
-  ✨ <i>Design. Build. Innovate.</i> ✨
+  ✨ <i>design • build • evolve</i> ✨
 </p>
 
-<!-- 🌊 Neon Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 </p>
+
+
+
+
+
 
 
