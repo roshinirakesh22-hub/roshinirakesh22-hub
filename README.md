@@ -91,18 +91,7 @@ and wonder how I even made it work.
 
 ---
 
-<!-- 📊 STATS -->
 
-<h2 align="center">📊 GitHub Flow</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=8A2BE2"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2"/>
-</p>
 
 ---
 
